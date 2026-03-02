@@ -1,0 +1,5 @@
+{
+  "name": "Road Fighter Clone",
+  "description": "A simple top-down racing game with accelerators, shields, and crossing crocodiles.",
+  "requestFramePermissions": []
+}
